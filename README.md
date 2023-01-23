@@ -8,10 +8,24 @@
  <img src="https://komarev.com/ghpvc/?username=16DeeCee&style=flat-square&color=blue" alt="">
 </div>
 
+<br>
+<br>
+
 ## 👨‍💻 About Me
-<img src="./gif/something_of_a_programmer.gif" alt="" align="right">
-<p>I'm a starting Full Stack Developer</p>
-<p>Interested in game development🎮</p>
+<img src="./gif/something_of_a_programmer.gif" alt="" align="right" width=50%>
+
+- 💻 I'm a **Full Stack Developer _rookie_** 👶
+
+- 🎮 Interested in **game development** 🕹
+
+  - 📚 currently learning **pygame** on my free time 
+
+- ❤️ I ~~hate~~ **love** programming ❤️‍🩹
+
+<br>
+<br>
+<br>
+<br>
 
 ## 🛠️ Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width=50 height=50>&nbsp;
