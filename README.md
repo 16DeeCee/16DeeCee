@@ -35,6 +35,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="Microsoft .Net" alt="Microsoft .Net" width=50 height=50>&nbsp;
 
 ## 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=16DeeCee&theme=gotham)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=16DeeCee&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=16DeeCee&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=16DeeCee&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
