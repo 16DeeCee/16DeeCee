@@ -14,14 +14,11 @@
 ## 👨‍💻 About Me
 <img src="./gif/something_of_a_programmer.gif" alt="" align="right" width=50%>
 
-- 💻 I'm a **Full Stack Developer** 👶
-
+- NLP Engineer
+- 💻 Knowledge in **Full Stack Development**
 - 🎮 Interested in **game development** 🕹
-
   - 📚 currently learning Unity in my free time
- 
   - Created a basic 2D game from a course. 🎉 Currently exploring 3D game
-
 - ❤️ I ~~hate~~ **love** programming ❤️‍🩹
 
 <br>
@@ -34,7 +31,10 @@
 ### Programming Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width=50 height=50>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width=50 height=50>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width=50 height=50>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width=50 height=50>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width=50 height=50>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width=50 height=50>&nbsp;
 
 ### Markup & Styling
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width=50 height=50>&nbsp;
@@ -46,12 +46,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width=50 height=50>&nbsp;
 
 ### Backend Development
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width=50 height=50>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width=50 height=50>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width=50 height=50>&nbsp;
 
 ### Databases
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width=50 height=50>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width=50 height=50>&nbsp;
 
 ### Frameworks and Libraries
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width=50 height=50>&nbsp;
